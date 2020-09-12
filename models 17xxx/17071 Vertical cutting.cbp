@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="17071 Vertical cutting" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="17071 Vertical cutting" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="17071 Vertical cutting" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-std=c++11" />
+			<Add option="-std=c++0x" />
+			<Add option="-Wall" />
+			<Add directory="../lib" />
+		</Compiler>
+		<Unit filename="../lib/fmi3d.h" />
+		<Unit filename="../lib/fmi3d_button.cpp" />
+		<Unit filename="../lib/fmi3d_button.h" />
+		<Unit filename="../lib/fmi3d_camera.cpp" />
+		<Unit filename="../lib/fmi3d_camera.h" />
+		<Unit filename="../lib/fmi3d_ground.cpp" />
+		<Unit filename="../lib/fmi3d_ground.h" />
+		<Unit filename="../lib/fmi3d_lib.cpp" />
+		<Unit filename="../lib/fmi3d_lib.h" />
+		<Unit filename="../lib/fmi3d_objects.cpp" />
+		<Unit filename="../lib/fmi3d_objects.h" />
+		<Unit filename="../lib/fmi3d_primitives.cpp" />
+		<Unit filename="../lib/fmi3d_primitives.h" />
+		<Unit filename="../lib/stb_image.cpp" />
+		<Unit filename="../lib/stb_image.h" />
+		<Unit filename="17071 Vertical cutting.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
