@@ -29,3 +29,41 @@ The project and the code is not maintained any more. The exact license
 is not decided yet, however, the code can be used/reused in any type of
 non-commercial or educational project, provided there is proper 
 acknowledgement.
+
+# Selected snapshots
+
+### 07431 HSL cylinder
+<img src="models%2007xxx/07431%20HSL%20cylinder.jpg" width="400">
+
+### 10321 CSG subtraction
+<img src="models%2010xxx/10321%20CSG%20subtraction.jpg" width="400">
+
+### 11101 Quadropus
+<img src="models%2011xxx/11101%20Quadropus.jpg" width="400">
+
+### 22232 Fractal mountain
+<img src="models%2022xxx/22232%20Fractal%20mountain.jpg" width="400">
+
+### 
+<img src="" width="400">
+
+### 
+<img src="" width="400">
+
+### 
+<img src="" width="400">
+
+### 
+<img src="" width="400">
+
+### 
+<img src="" width="400">
+
+### 
+<img src="" width="400">
+
+### 
+<img src="" width="400">
+
+### 
+<img src="" width="400">
