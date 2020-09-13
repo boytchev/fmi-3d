@@ -30,7 +30,7 @@ is not decided yet, however, the code can be used/reused in any type of
 non-commercial or educational project, provided there is proper 
 acknowledgement.
 
-# Selected snapshots
+# Eight snapshots
 
 ### 07431 HSL cylinder
 <img src="models%2007xxx/07431%20HSL%20cylinder.jpg" width="400">
@@ -41,29 +41,18 @@ acknowledgement.
 ### 11101 Quadropus
 <img src="models%2011xxx/11101%20Quadropus.jpg" width="400">
 
+### 13511 Grass complex wave
+<img src="models%2013xxx/13511%20Grass%20complex%20wave.jpg" width="400">
+
+### 15181 Platonic solids
+<img src="models%2015xxx/15181%20Platonic%20solids.jpg" width="400">
+
+### 20481 Perspective cube
+<img src="models%2020xxx/20481%20Perspective%20cube.jpg" width="400">
+
 ### 22232 Fractal mountain
 <img src="models%2022xxx/22232%20Fractal%20mountain.jpg" width="400">
 
-### 
-<img src="" width="400">
+### 26461 Flexible skin
+<img src="models%2026xxx/26461%20Flexible%20skin.jpg" width="400">
 
-### 
-<img src="" width="400">
-
-### 
-<img src="" width="400">
-
-### 
-<img src="" width="400">
-
-### 
-<img src="" width="400">
-
-### 
-<img src="" width="400">
-
-### 
-<img src="" width="400">
-
-### 
-<img src="" width="400">
