@@ -19,7 +19,7 @@ and managed by CodeBlocks. The project files (*.cbp) for all models are also
 included in the repository.
 
 The models are numbered by 5-digit identifier. For example, the model about
-the Cartesian coordinate system is 03061, which means it is used in page 61
+the Cartesian coordinate system is 03061, which means it was used in page 61
 of the lecture notes for topic 3 of the course.
 
 # License
