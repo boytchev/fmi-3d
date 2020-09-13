@@ -25,7 +25,7 @@ of the lecture notes for topic 3 of the course.
 # License
 
 The source code of FMI-3D is made open as a form of software heritage.
-The project and the code is not maintained any more. The exact license
+The project and the code are not maintained any more. The exact license
 is not decided yet, however, the code can be used/reused in any type of
 non-commercial or educational project, provided there is proper 
 acknowledgement.
