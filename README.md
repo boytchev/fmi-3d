@@ -7,7 +7,7 @@ of CG topics. FMI-3D was heavily used in the course "Fundamentals of
 Computer Graphics" for Computer Sciences undergraduate students from the
 [Faculty of Mathematics and Informatics](https://www.fmi.uni-sofia.bg/en) at
 [Sofia University](https://www.uni-sofia.bg/index.php/eng). After several
-years of years of faithful serviceuse FMI-3D was retired with honors and
+years of years of faithful service FMI-3D was retired with honors and
 replaced by a next generation library on top of [Three.js](https://threejs.org/).
 
 # Source code
