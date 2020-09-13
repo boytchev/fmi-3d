@@ -1,4 +1,4 @@
-# fmi-3d
+# Fmi-3d
 
 The FMI-3D project was initiated in 2012 and completed in 2013.
 The result of the project was a library for genration of 3D objects
@@ -17,6 +17,10 @@ which was present on all systems at that time, and an old version of GLFW, which
 is included in this repository for convenience. The compilation was done by GCC
 and managed by CodeBlocks. The project files (*.cbp) for all models are also
 included in the repository.
+
+The models are numbered by 5-digit identifier. For example, the model about
+the Cartesian coordinate system is 03061, which means it is used in page 61
+of the lecture notes for topic 3 of the course.
 
 # License
 
